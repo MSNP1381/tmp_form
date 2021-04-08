@@ -1,0 +1,54 @@
+.nav-link.active{
+    background-color: #ffffff
+}
+#button-1{
+
+
+    background-color: #a8B339;
+    color:white;
+    --bs-table-hover-color: #5C9200;
+}
+
+#div_main{
+    position: relative;
+    /*background: url(sources/Home.png) no-repeat;*/
+    /*background-size:100% ;*/
+    background: #2f2f2f;
+    height:426px;
+}
+#new_user{
+    width :70px;
+    height :70px;
+    color:#3f3f3f;
+    background:#fcc315;
+    position: absolute;
+ left: 20px;
+   bottom:20px;
+
+
+    border-radius: 50%;
+}
+
+footer{
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+    background-color:#f5f5f5;
+}
+
+ #technical_support{
+     width :70px;
+     height :70px;
+     color:#3f3f3f;
+     background:#f5f5f5;
+     position: absolute;
+     left: 20px;
+     top:20px;
+     border-radius: 50%;
+
+}
+#nav_item_customer{
+ //   background-color:#fcc315;
+}
+
+
